@@ -1,0 +1,2 @@
+# SQL-hackerrank
+SQL Query 
